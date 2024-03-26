@@ -2,7 +2,7 @@
 ## ✅ 참여 방식
 1. 이 저장소를 fork 한다.
 2. 생성된 원격 저장소에 이름 혹은 github ID로 폴더를 생성한다.
-3. 생성된 폴더에 자신의 Readme 파일을 업로드 한다. (폴더명에 콜론":" 안됩니다!)
+3. 생성된 폴더에 자신이 정리한 내용을 Readme 파일로 업로드 한다. (폴더명에 콜론":" 안됩니다!)
 4. 이때 commit 규칙을 지키도록한다!
 5. 원본 저장소로 Pull Request를 하고 Merge 한다.
 6. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
@@ -23,4 +23,5 @@
 - ``` dylee00 / 0322 / Computer Architecture ```
 - comment는 자유
 
-
+## 📎Reference
+https://gyoogle.dev/blog/
