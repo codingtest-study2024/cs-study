@@ -11,12 +11,12 @@
 ## ✏️ Readme 파일 작성 방법
 아래의 두 가지 방법 중 자유롭게 선택하시면 됩니다
 
-1️⃣  파일 경로: 학습 내용을 개인 블로그에 정리해서 Readme 파일에 블로그 링크를 첨부
- - 개인 폴더/ 카테고리 이름/ 세부 카테고리 이름.md
+1️⃣ 학습 내용을 개인 블로그에 정리해서 Readme 파일에 블로그 링크를 첨부
+ - 파일 경로: 개인 폴더/ 카테고리 이름/ 세부 카테고리 이름.md
  - 예시 :
  - ``` yoojin-kim/ Computer Science/ Computer Architecture.md ```
    
-2️⃣  Readme 파일 자체에 학습 내용 정리
+2️⃣ Readme 파일 자체에 학습 내용 정리
  - 파일 경로: 개인 폴더/ 카테고리 이름/ 세부 카테고리 이름/ 소주제.md
  - 예시 :
  - ``` yoojin-kim/ Computer Science/ Computer Architecture/ 컴퓨터의 구성.md ```
