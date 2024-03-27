@@ -14,12 +14,12 @@
 1️⃣ 학습 내용을 개인 블로그에 정리해서 Readme 파일에 블로그 링크를 첨부
  - 파일 경로: 개인 폴더/ 카테고리 이름/ 세부 카테고리 이름.md
  - 예시 : ``` yoojin-kim/ Computer Science/ Computer Architecture.md ```
- - Readme 파일은 블로그 링크를 포함하여 자유롭게 작성하시면 됩니다!
+ - Readme 파일의 내용은 블로그 링크를 포함하여 자유롭게 작성하시면 됩니다!
    
 2️⃣ Readme 파일 자체에 학습 내용 정리
  - 파일 경로: 개인 폴더/ 카테고리 이름/ 세부 카테고리 이름/ 소주제.md
  - 예시 : ``` yoojin-kim/ Computer Science/ Computer Architecture/ 컴퓨터의 구성.md ```
- - Readme 파일은 학습한 내용에 대해 자유롭게 작성하시면 됩니다!
+ - Readme 파일의 내용은 학습한 내용에 대해 자유롭게 작성하시면 됩니다!
 
 ### ✅ Readme 파일 이름 규칙
 - 자유롭게 작성
